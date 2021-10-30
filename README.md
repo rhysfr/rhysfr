@@ -1,5 +1,35 @@
-“*”👋 Hi, my name is rhys
-“*”🐸 I'm currently working on Vlox Bot, MCServerSBS & HypeChat
-“*”🌱 I know HTML, some CSS and a bit of Python and C#
-“*”📫 The best way to contact me is through discord: rhys#9931
+
+<br />
+<div align="center">
+  <a href="https://media.discordapp.net/attachments/814462336215154760/904138679482740807/WhirEBxu_400x400.jpg">
+    <img src="https://media.discordapp.net/attachments/814462336215154760/904138679482740807/WhirEBxu_400x400.jpg" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">Rhys's Github</h3>
+
+  <p align="center">
+    <a href="https://vloxbot.xyz"><strong>Vlox Bot »</strong></a>
+    <br />
+    <br />
+    <a href="https://mcserver.sbs/">MCServerSBS</a>
+    ·
+    <a href="https://hypechat.us/">HypeChat</a>
+    ·
+    
+  </p>
+</div>
+
+
+
+
+
+
+
+
+
+<!-- GETTING STARTED -->
+## About Me
+
+Hi, i'm Rhys. I'm a 13 year old aspiring developer who knows HTML, a bit of CSS, Python and C#
+
 
