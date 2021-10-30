@@ -27,9 +27,13 @@
 
 
 
-<!-- GETTING STARTED -->
+
 ## About Me
 
 Hi, i'm Rhys. I'm a 13 year old aspiring developer who knows HTML, a bit of CSS, Python and C#
+
+## Contact Me
+
+You can contact me on discord: rhys#9931
 
 
