@@ -36,4 +36,4 @@ Hi, i'm Rhys. I'm a 13 year old aspiring developer who knows HTML, a bit of CSS,
 
 You can contact me on discord: rhys#9931
 
-
+![I'm Rhys](https://github.com/Corard/Corard/blob/main/Corard.gif?raw=true)
