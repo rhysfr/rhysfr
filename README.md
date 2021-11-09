@@ -10,7 +10,7 @@
 
 <div align="center">
 
-You have finally discovered my Profile.<br>
+You have finally discovered some cool stuff 😉<br>
 
 
 
