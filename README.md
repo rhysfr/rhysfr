@@ -22,7 +22,7 @@ You have finally discovered some cool stuff 😉<br>
 
 </div>
   
-- 🔭 I’m currently working on Vlox Bot, and MCServer.sbs
+- 🔭 I’m currently working on Vlox Bot and MCServer.sbs
 - 🌱 I’m currently learning Python & CSS
 - 📫 How to reach me: Discord! rhys#9931
 - 😄 Pronouns: he/him
