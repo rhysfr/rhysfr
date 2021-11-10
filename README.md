@@ -35,5 +35,5 @@ You have finally discovered some cool stuff 😉<br>
 ## Projects
 
 My projects!
-  * [Vlox Bot](https://vloxbot.xyz/) <strong> Best Multipurpose Discord Bot! </strong>
+  * [Vlox Bot](https://github.com/rhysfr/VloxBot) <strong> Best Multipurpose Discord Bot! </strong>
   * [MCServer.sbs](https://mcserver.sbs) <strong> Cheap Minecraft Hosting! </strong>
