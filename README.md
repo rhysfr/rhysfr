@@ -35,5 +35,5 @@ You have finally discovered some cool stuff 😉<br>
 ## Projects
 
 My projects!
-* [Vlox Bot](https://vloxbot.xyz/
+* [Vlox Bot](https://vloxbot.xyz/)
 * [MCServer.sbs](https://mcserver.sbs)
