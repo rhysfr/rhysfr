@@ -27,6 +27,7 @@ You have finally discovered some cool stuff 😉<br>
 - 📫 How to reach me: Discord! rhys#9931
 - 😄 Pronouns: he/him
 - ⚡ Age: 13
+- 😒 I'm not sus. 
 
   
   
