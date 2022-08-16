@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋 </h1>
   <hr></hr>
 <h2>About me:</h2>
-<p>A 13 year old who knows 1 or 2 things</p>
+<p>A 14 year old who knows 1 or 2 things</p>
 <hr></hr>
 <h2>Projects:</h2>
 <img src="https://cdn.discordapp.com/attachments/799593219364225055/972188931418370078/logo-2-removebg-preview.png" height ="80" width="100"/></button>
