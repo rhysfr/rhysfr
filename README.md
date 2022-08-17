@@ -9,4 +9,4 @@
 <h3><a href="https://projectastro.xyz/">ProjectAstro</a></h3>
 <p>ProjectAstro is a cheap hosting provider. We provide Servers such as Garry's Mod, Minecraft, Discord Bots & More. <p>
 <h2>Contact me:</h2>
-<p>Discord: rhys#2750</p>
+<p>Discord: rhys#1323</p>
